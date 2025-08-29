@@ -31,3 +31,4 @@ for this purpose.
 <img width="1732" height="1111" alt="Screenshot 2025-08-29 at 10 32 54 AM" src="https://github.com/user-attachments/assets/1fe68eb4-4c50-43e8-a485-87e3b8023022" />
 
 ### Result:
+Thus Preprocessing on twitter data using rapidminer has been implemented successfully
